@@ -1,0 +1,23 @@
+{
+  "name": "mwa_miu",
+  "version": "1.0.0",
+  "description": "This is Lab 01 project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mahdi-mahdawi/MWA_MIU.git"
+  },
+  "keywords": [
+    "NPM",
+    "Nonblocking"
+  ],
+  "author": "Mahdi Mahdawi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mahdi-mahdawi/MWA_MIU/issues"
+  },
+  "homepage": "https://github.com/mahdi-mahdawi/MWA_MIU#readme"
+}
